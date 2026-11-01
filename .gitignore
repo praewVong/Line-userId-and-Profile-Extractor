@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.*
+
+# Credentials and secrets
+credentials.json
+service-account.json
+*.pem
+*.key
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
